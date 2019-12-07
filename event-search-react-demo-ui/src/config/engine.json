@@ -1,0 +1,27 @@
+{
+  "engineName": "event-search",
+  "hostIdentifier": "host-75fwzz",
+  "endpointBase": "https://host-75fwzz.api.swiftype.com",
+  "searchKey": "search-a2q5vtfiofkidufq5x76jshb",
+  "resultFields": [
+    "serialnumber",
+    "event",
+    "location",
+    "sponsors",
+    "organization",
+    "date",
+    "registrationlink",
+    "tags",
+    "cost",
+    "id"
+  ],
+  "sortFields": [
+    "cost",
+    "date"
+  ],
+  "facets": [
+    "event",
+    "location",
+    "organization"
+  ]
+}
